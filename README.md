@@ -77,7 +77,14 @@ me.showProfile();
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="30"> Contribution Snake
 <div align="center">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RoshanGhimire00/RoshanGhimire00/output/github-contribution-grid-snake.svg">
+  
+<!-- GitHub Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RoshanGhimire00/RoshanGhimire00/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/RoshanGhimire00/RoshanGhimire00/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/RoshanGhimire00/RoshanGhimire00/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
 
 
