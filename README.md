@@ -92,8 +92,14 @@ me.showProfile();
 
 <div align="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoshanGhimire00&repo=AI-ChatBot&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)](https://github.com/RoshanGhimire00/AI-ChatBot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoshanGhimire00&repo=ML-AutomationSuite&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)](https://github.com/RoshanGhimire00/ML-AutomationSuite)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoshanGhimire00&repo=Portfolio-website&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)](https://github.com/RoshanGhimire00/Portfolio-website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoshanGhimire00&repo=Weather_App&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)](https://github.com/RoshanGhimire00/Weather_App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoshanGhimire00&repo=Expenses-Tracker&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)](https://github.com/RoshanGhimire00/Expenses-Tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoshanGhimire00&repo=Resume_Maker&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)](https://github.com/RoshanGhimire00/Resume_Maker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoshanGhimire00&repo=Nakshal-Pharma&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)](https://github.com/RoshanGhimire00/Nakshal-Pharma)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoshanGhimire00&repo=Tik-Tak-Toe&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)](https://github.com/RoshanGhimire00/Tik-Tak-Toe)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoshanGhimire00&repo=Grocery_Store&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)](https://github.com/RoshanGhimire00/Grocery_Store)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RoshanGhimire00&repo=Form-with-api-&theme=tokyonight&hide_border=true&title_color=00d9ff&text_color=ffffff&bg_color=0d1117)](https://github.com/RoshanGhimire00/Form-with-api-)
 
 </div>
 
